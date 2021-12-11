@@ -1,0 +1,9 @@
+<template>	
+	<div>
+	Management
+	</div>	
+</template>
+<script>
+</script>
+<style>
+</style>

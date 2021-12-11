@@ -1,0 +1,9 @@
+<template>	
+	<div>
+	ServiceHall
+	</div>	
+</template>
+<script>
+</script>
+<style>
+</style>

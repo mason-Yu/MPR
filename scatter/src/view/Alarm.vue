@@ -1,0 +1,9 @@
+<template>	
+	<div>
+	Alarm
+	</div>	
+</template>
+<script>
+</script>
+<style>
+</style>

@@ -1,0 +1,9 @@
+<template>	
+	<div>
+	Personel
+	</div>	
+</template>
+<script>
+</script>
+<style>
+</style>
